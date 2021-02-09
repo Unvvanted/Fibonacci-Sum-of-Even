@@ -6,7 +6,9 @@ By considering the terms in the Fibonacci sequence whose values do not exceed fo
 
 
 c = 33
+
 def fib(number_of_terms):
+
     counter = 0
     first = 0
     second = 1
